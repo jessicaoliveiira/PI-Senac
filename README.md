@@ -1,2 +1,2 @@
 # PI-Senac
-Projeto integrador 3º semestre
+Projeto integrador 3º semestree
